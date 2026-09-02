@@ -1,7 +1,7 @@
 /**
  * seed-admin.js — Run once to create the admin account
  * Usage: node seed-admin.js
- *
+ 
  * Make sure your MONGO_URI is set in .env before running.
  */
 require("dotenv").config();
