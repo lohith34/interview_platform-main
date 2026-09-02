@@ -8,7 +8,7 @@ A full-stack MERN interview platform with **real-time collaborative code editing
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo.
 
 | Service | URL |
 |---|---|
